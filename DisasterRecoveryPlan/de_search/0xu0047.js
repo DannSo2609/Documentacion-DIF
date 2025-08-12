@@ -4,7 +4,7 @@ DR_EXPLAIN.searchIndex["\u0047"] = [
 	{ "s": "GARANTIZA", "p": [7, 5, 4] },
 	{ "s": "GARANTIZANDO", "p": [4] },
 	{ "s": "GARANTIZAR", "p": [10, 6, 4, 11, 7, 5] },
-	{ "s": "GENERAL", "p": [10, 9, 8, 3] },
+	{ "s": "GENERAL", "p": [10, 9, 8] },
 	{ "s": "GEOGRÁFICA", "p": [4] },
 	{ "s": "GERENTE", "p": [6] },
 	{ "s": "GERENTES", "p": [4] },

@@ -9,7 +9,7 @@ DR_EXPLAIN.searchIndex["\u004c"] = [
 	{ "s": "LIMITA", "p": [7] },
 	{ "s": "LINK", "p": [10] },
 	{ "s": "LISTO", "p": [10] },
-	{ "s": "LO", "p": [6, 5, 4] },
+	{ "s": "LO", "p": [10, 6, 5, 4] },
 	{ "s": "LOCALIZAMOS", "p": [10] },
 	{ "s": "LOCALIZAR", "p": [10] },
 	{ "s": "LOGS", "p": [6, 4] },

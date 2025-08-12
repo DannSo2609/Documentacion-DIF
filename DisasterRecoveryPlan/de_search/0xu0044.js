@@ -1,6 +1,7 @@
 DR_EXPLAIN = DR_EXPLAIN || {};
 DR_EXPLAIN.searchIndex = DR_EXPLAIN.searchIndex || {};
 DR_EXPLAIN.searchIndex["\u0044"] = [
+	{ "s": "D", "p": [10] },
 	{ "s": "DAMOS", "p": [10] },
 	{ "s": "DAREMOS", "p": [10] },
 	{ "s": "DATA", "p": [9, 4] },
@@ -9,6 +10,7 @@ DR_EXPLAIN.searchIndex["\u0044"] = [
 	{ "s": "DATOS/IT", "p": [8] },
 	{ "s": "DE", "p": [4, 6, 10, 7, 5, 9, 8, 3, 11] },
 	{ "s": "DEBE", "p": [10, 11, 7, 6] },
+	{ "s": "DEBEMOS", "p": [10] },
 	{ "s": "DEBERÁ", "p": [6, 5] },
 	{ "s": "DEBERÁN", "p": [7] },
 	{ "s": "DECISIONES", "p": [4] },
@@ -21,6 +23,8 @@ DR_EXPLAIN.searchIndex["\u0044"] = [
 	{ "s": "DEPARTAMENTO", "p": [9] },
 	{ "s": "DEPENDENCIAS", "p": [7] },
 	{ "s": "DEPENDIENDO", "p": [4] },
+	{ "s": "DERECHA", "p": [10] },
+	{ "s": "DESAROLLO", "p": [8] },
 	{ "s": "DESARROLLADAS", "p": [7, 5, 3] },
 	{ "s": "DESARROLLADOS", "p": [5] },
 	{ "s": "DESARROLLO", "p": [7, 8, 11, 6, 3] },
@@ -38,7 +42,6 @@ DR_EXPLAIN.searchIndex["\u0044"] = [
 	{ "s": "DESPLIEGUE", "p": [7] },
 	{ "s": "DESTINO", "p": [10] },
 	{ "s": "DETALLA", "p": [9, 6] },
-	{ "s": "DETALLADOS", "p": [10] },
 	{ "s": "DETECTAR", "p": [6, 4] },
 	{ "s": "DEV", "p": [7, 8] },
 	{ "s": "DIAGRAMA", "p": [6] },
@@ -47,6 +50,8 @@ DR_EXPLAIN.searchIndex["\u0044"] = [
 	{ "s": "DIARIOS", "p": [4] },
 	{ "s": "DIF", "p": [1] },
 	{ "s": "DIFDR", "p": [10] },
+	{ "s": "DIFQA2", "p": [10] },
+	{ "s": "DIFQA2.CRM.DYNAMICS.COM", "p": [10] },
 	{ "s": "DIRECTA", "p": [8] },
 	{ "s": "DIRECTAMENTE", "p": [10] },
 	{ "s": "DIRIGIMOS", "p": [10] },
@@ -66,10 +71,11 @@ DR_EXPLAIN.searchIndex["\u0044"] = [
 	{ "s": "DOCUMENTO", "p": [11] },
 	{ "s": "DOMINICANA", "p": [4] },
 	{ "s": "DOMINIO", "p": [10] },
-	{ "s": "DONDE", "p": [11] },
+	{ "s": "DONDE", "p": [10, 11] },
 	{ "s": "DOS", "p": [9] },
 	{ "s": "DRP", "p": [6, 11, 7, 5] },
 	{ "s": "DURA", "p": [10] },
 	{ "s": "DURANTE", "p": [6] },
+	{ "s": "DYNAMICS", "p": [10] },
 	{ "s": "DÍAS", "p": [4] }
 ];

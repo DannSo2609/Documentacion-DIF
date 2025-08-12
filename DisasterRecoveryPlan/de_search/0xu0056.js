@@ -5,9 +5,11 @@ DR_EXPLAIN.searchIndex["\u0056"] = [
 	{ "s": "VALIDACIÓN", "p": [10, 6, 5] },
 	{ "s": "VALIDADAS", "p": [7] },
 	{ "s": "VALIDAR", "p": [10, 6, 7, 5] },
+	{ "s": "VAMOS", "p": [10] },
+	{ "s": "VARIAR", "p": [10] },
 	{ "s": "VEA", "p": [4] },
 	{ "s": "VENTANA", "p": [10] },
-	{ "s": "VER", "p": [6] },
+	{ "s": "VER", "p": [10, 6] },
 	{ "s": "VERIFICACIÓN", "p": [10] },
 	{ "s": "VERIFICAR", "p": [10, 6, 8] },
 	{ "s": "VERSIONAMIENTO", "p": [7] },
@@ -16,5 +18,6 @@ DR_EXPLAIN.searchIndex["\u0056"] = [
 	{ "s": "VISIBILIDAD", "p": [11] },
 	{ "s": "VISUALIZAR", "p": [10] },
 	{ "s": "VIVO", "p": [11] },
-	{ "s": "VOLUMINOSAS", "p": [10] }
+	{ "s": "VOLUMINOSAS", "p": [10] },
+	{ "s": "VÍA", "p": [10] }
 ];

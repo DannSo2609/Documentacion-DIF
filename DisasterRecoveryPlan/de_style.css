@@ -388,12 +388,12 @@ table.de-text-block-spoiler > tbody > tr > td.de-tb-text
 {
 padding-left:0;padding-top:5px;padding-right:10px;padding-bottom:5px;
 }
+div.de_026A006CB7
+{
+text-align:left;}
 div.de_02A808EBEC
 {
 direction:ltr;text-align:left;text-indent:-24px;margin-left:144px;}
-div.de_20D8679042
-{
-direction:ltr;text-align:left;text-indent:-24px;margin-left:90px;}
 div.de_31EB30572D
 {
 direction:ltr;text-align:left;text-indent:-24px;margin-left:96px;}
@@ -403,9 +403,9 @@ direction:ltr;text-align:left;text-indent:0;margin-left:48px;}
 div.de_38B3956165
 {
 text-align:center;}
-div.de_3F388BBFCC
+div.de_5FE41E8C03
 {
-direction:ltr;text-align:center;text-indent:0;margin-left:0;}
+text-align:left;text-indent:0;margin-top:0pt;margin-bottom:0pt;}
 div.de_6039DC3CEF
 {
 direction:ltr;text-align:left;text-indent:-24px;margin-left:72px;}
@@ -415,18 +415,12 @@ direction:ltr;text-align:left;text-indent:0;margin-left:50px;}
 div.de_6F1BC2B1C0
 {
 direction:ltr;text-align:left;text-indent:0;margin-left:40px;}
-div.de_7BCD1AFC30
-{
-direction:ltr;text-align:left;text-indent:47px;margin-left:0;}
 div.de_7D7D951E39
 {
 direction:ltr;text-align:center;text-indent:0;margin-left:48px;}
 div.de_8AF401EDF5
 {
 direction:ltr;text-align:left;text-indent:0;margin-left:96px;}
-div.de_BBC1EEF4C2
-{
-direction:ltr;text-align:left;text-indent:0;margin-left:0;margin-top:0pt;margin-bottom:0pt;}
 div.de_C54D9B1CE1
 {
 direction:ltr;text-align:left;text-indent:0;margin-left:0;}
@@ -436,6 +430,9 @@ direction:ltr;text-align:left;text-indent:0;margin-left:24px;}
 div.de_D8A905EC7A
 {
 margin-top:0pt;margin-bottom:0pt;}
+div.de_E931529BA0
+{
+text-align:left;text-indent:0;margin-left:50px;}
 div.de_EEFE645B43
 {
 direction:ltr;text-align:center;text-indent:0;margin-left:96px;}
@@ -469,6 +466,12 @@ span.de_4987B9E7D3
 {
 	font-family: "Montserrat";
 	font-size: 11pt;
+	color:#ffffff;
+}
+span.de_58183BCC92
+{
+	font-family: "Montserrat";
+	font-size: 10pt;
 	color:#ffffff;
 }
 span.de_5F7093391C
@@ -628,7 +631,7 @@ span.de_FE294A2271
 	text-align: left;
 	padding: 0;
 	margin: 0;
-	content: '' counter(list-counter-138e0df0-71fe-48cf-8ce0-98e382da67ac-1, disc) '\00a0';
+	content: '' counter(list-counter-138e0df0-71fe-48cf-8ce0-98e382da67ac-1, decimal) '.\00a0';
 	counter-increment: list-counter-138e0df0-71fe-48cf-8ce0-98e382da67ac-1;
 }
 .list-counter-138e0df0-71fe-48cf-8ce0-98e382da67ac-1 > div > div[class='list-marker-chm'] {
@@ -646,7 +649,7 @@ span.de_FE294A2271
 	text-align: left;
 	padding: 0;
 	margin: 0;
-	content: '' counter(list-counter-138e0df0-71fe-48cf-8ce0-98e382da67ac-2, disc) '\00a0';
+	content: '' counter(list-counter-138e0df0-71fe-48cf-8ce0-98e382da67ac-2, decimal) '.\00a0';
 	counter-increment: list-counter-138e0df0-71fe-48cf-8ce0-98e382da67ac-2;
 }
 .list-counter-138e0df0-71fe-48cf-8ce0-98e382da67ac-2 > div > div[class='list-marker-chm'] {

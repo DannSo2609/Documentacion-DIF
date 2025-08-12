@@ -3,7 +3,7 @@ DR_EXPLAIN.searchIndex = DR_EXPLAIN.searchIndex || {};
 DR_EXPLAIN.searchIndex["\u0050"] = [
 	{ "s": "PAGOS", "p": [6] },
 	{ "s": "PANTALLA", "p": [10] },
-	{ "s": "PARA", "p": [10, 4, 6, 5, 7, 9, 8, 11] },
+	{ "s": "PARA", "p": [4, 10, 6, 5, 7, 9, 8, 11] },
 	{ "s": "PARCIAL", "p": [9, 5] },
 	{ "s": "PARTE", "p": [10, 5] },
 	{ "s": "PARTIR", "p": [7] },
@@ -37,7 +37,6 @@ DR_EXPLAIN.searchIndex["\u0050"] = [
 	{ "s": "POST-INCIDENTE", "p": [7] },
 	{ "s": "POST-RESTAURACIÓN", "p": [5] },
 	{ "s": "POSTERIOR", "p": [10] },
-	{ "s": "POSTERIORES", "p": [10, 3] },
 	{ "s": "POSTURA", "p": [4] },
 	{ "s": "POWER", "p": [6, 5, 4, 3, 2, 8, 10] },
 	{ "s": "POWERPLATFORM", "p": [10] },
@@ -67,7 +66,6 @@ DR_EXPLAIN.searchIndex["\u0050"] = [
 	{ "s": "PROGRAMADAS", "p": [5] },
 	{ "s": "PROGRAMADOR", "p": [8, 6, 5] },
 	{ "s": "PROGRAMADOR/EQUIPO", "p": [8] },
-	{ "s": "PROGRESO", "p": [10] },
 	{ "s": "PROGRESS", "p": [10] },
 	{ "s": "PROMOCIÓN", "p": [7] },
 	{ "s": "PROMOVER", "p": [10, 7] },
@@ -82,7 +80,7 @@ DR_EXPLAIN.searchIndex["\u0050"] = [
 	{ "s": "PRÁCTICA", "p": [11] },
 	{ "s": "PUEDA", "p": [10] },
 	{ "s": "PUEDAN", "p": [11] },
-	{ "s": "PUEDE", "p": [4, 9] },
+	{ "s": "PUEDE", "p": [4, 10, 9] },
 	{ "s": "PUNTO", "p": [10, 4] },
 	{ "s": "PUNTOS", "p": [10, 6] },
 	{ "s": "PÉRDIDA", "p": [9, 5, 4, 8, 3] }
