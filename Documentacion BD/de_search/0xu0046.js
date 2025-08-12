@@ -1,0 +1,31 @@
+DR_EXPLAIN = DR_EXPLAIN || {};
+DR_EXPLAIN.searchIndex = DR_EXPLAIN.searchIndex || {};
+DR_EXPLAIN.searchIndex["\u0046"] = [
+	{ "s": "FACTURA", "p": [5] },
+	{ "s": "FACTURAS", "p": [5] },
+	{ "s": "FAILED", "p": [8] },
+	{ "s": "FALLIDO", "p": [8] },
+	{ "s": "FALLIDOS", "p": [8] },
+	{ "s": "FALLÓ", "p": [8] },
+	{ "s": "FECHA", "p": [8, 4] },
+	{ "s": "FILAS", "p": [4] },
+	{ "s": "FILEBL", "p": [5] },
+	{ "s": "FILEBLBILLOFLADING", "p": [5] },
+	{ "s": "FILEBLCONTAINER", "p": [5] },
+	{ "s": "FILEBLSHAREPOINTS", "p": [5] },
+	{ "s": "FILTRAR", "p": [8] },
+	{ "s": "FILTRO", "p": [8] },
+	{ "s": "FINALIZADAS", "p": [8] },
+	{ "s": "FINANCIAL", "p": [4] },
+	{ "s": "FINANZAS", "p": [7] },
+	{ "s": "FLOWS", "p": [8] },
+	{ "s": "FLUJO", "p": [8] },
+	{ "s": "FLUJOS", "p": [8] },
+	{ "s": "FORMA", "p": [8] },
+	{ "s": "FORÁNEAS", "p": [6] },
+	{ "s": "FRACASO", "p": [8] },
+	{ "s": "FRECUENCIA", "p": [8] },
+	{ "s": "FUE", "p": [8] },
+	{ "s": "FUTURAS", "p": [8] },
+	{ "s": "FÍSICA", "p": [4] }
+];

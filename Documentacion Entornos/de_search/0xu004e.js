@@ -1,0 +1,30 @@
+DR_EXPLAIN = DR_EXPLAIN || {};
+DR_EXPLAIN.searchIndex = DR_EXPLAIN.searchIndex || {};
+DR_EXPLAIN.searchIndex["\u004e"] = [
+	{ "s": "NAME", "p": [9, 8, 10] },
+	{ "s": "NAMED", "p": [11] },
+	{ "s": "NAVEGACIÓN", "p": [7, 10, 6] },
+	{ "s": "NECESARIAS", "p": [11] },
+	{ "s": "NECESARIO", "p": [8] },
+	{ "s": "NEGOCIO", "p": [7] },
+	{ "s": "NET", "p": [8] },
+	{ "s": "NEW", "p": [9, 11, 8] },
+	{ "s": "NEW-AZSTORAGECONTEXT", "p": [9, 8] },
+	{ "s": "NEWBACKUPRETENTIONPERIODINDAYS", "p": [12] },
+	{ "s": "NI", "p": [10] },
+	{ "s": "NINGUNA", "p": [10] },
+	{ "s": "NIVEL", "p": [7] },
+	{ "s": "NIVELES", "p": [7, 3] },
+	{ "s": "NO", "p": [10, 8, 11] },
+	{ "s": "NOMBRAMOS", "p": [11] },
+	{ "s": "NOMBRE", "p": [7, 12, 8, 6] },
+	{ "s": "NOS", "p": [6, 4, 8] },
+	{ "s": "NOT", "p": [8] },
+	{ "s": "NOTA", "p": [8, 12, 11, 9, 6] },
+	{ "s": "NOTIFICACIÓN", "p": [4] },
+	{ "s": "NUESTRA", "p": [11] },
+	{ "s": "NUESTRO", "p": [11, 4] },
+	{ "s": "NUEVA", "p": [9] },
+	{ "s": "NUEVO", "p": [5] },
+	{ "s": "NÚMERO", "p": [8] }
+];

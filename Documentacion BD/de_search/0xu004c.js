@@ -1,0 +1,30 @@
+DR_EXPLAIN = DR_EXPLAIN || {};
+DR_EXPLAIN.searchIndex = DR_EXPLAIN.searchIndex || {};
+DR_EXPLAIN.searchIndex["\u004c"] = [
+	{ "s": "LA", "p": [8, 4, 7, 6] },
+	{ "s": "LADO", "p": [7] },
+	{ "s": "LARGA", "p": [8] },
+	{ "s": "LAS", "p": [8, 4, 7, 6] },
+	{ "s": "LEADS", "p": [5] },
+	{ "s": "LEARN", "p": [8] },
+	{ "s": "LEGALES", "p": [8] },
+	{ "s": "LIBERACIÓN", "p": [8] },
+	{ "s": "LIMITADA", "p": [4] },
+	{ "s": "LIMPIAR", "p": [8] },
+	{ "s": "LIMPIEZA", "p": [8] },
+	{ "s": "LIQUIDACION", "p": [5] },
+	{ "s": "LISTA", "p": [5, 3] },
+	{ "s": "LISTAS", "p": [5] },
+	{ "s": "LLEVARÁN", "p": [8] },
+	{ "s": "LO", "p": [8, 7] },
+	{ "s": "LOCALIDADES", "p": [5] },
+	{ "s": "LOGICAL", "p": [5] },
+	{ "s": "LOGS", "p": [8, 5] },
+	{ "s": "LOGÍSTICA", "p": [7, 4] },
+	{ "s": "LOOKUP", "p": [7] },
+	{ "s": "LOOKUPS", "p": [6, 7, 3] },
+	{ "s": "LOS", "p": [8, 4, 3] },
+	{ "s": "LUEGO", "p": [8] },
+	{ "s": "LÓGICO", "p": [4] },
+	{ "s": "LÓGICOS", "p": [4] }
+];

@@ -1,0 +1,32 @@
+DR_EXPLAIN = DR_EXPLAIN || {};
+DR_EXPLAIN.searchIndex = DR_EXPLAIN.searchIndex || {};
+DR_EXPLAIN.searchIndex["\u0049"] = [
+	{ "s": "ICONO", "p": [8] },
+	{ "s": "IGUAL", "p": [8] },
+	{ "s": "IMPACTO", "p": [8] },
+	{ "s": "IMPORTACIONES", "p": [8] },
+	{ "s": "IMPORTACIÓN", "p": [8] },
+	{ "s": "IMPORTANTE", "p": [8] },
+	{ "s": "IMPORTAR", "p": [8] },
+	{ "s": "IMPORTS", "p": [8] },
+	{ "s": "IN", "p": [8] },
+	{ "s": "INCIDENCIAS", "p": [5] },
+	{ "s": "INCLUYE", "p": [6] },
+	{ "s": "INCLUYEN", "p": [8] },
+	{ "s": "INCLUYENDO", "p": [8] },
+	{ "s": "INDIVIDUALES", "p": [8, 5] },
+	{ "s": "INFORMACIÓN", "p": [4, 8] },
+	{ "s": "INFORMÁTICO", "p": [4] },
+	{ "s": "INICIAR", "p": [8] },
+	{ "s": "INICIARÁ", "p": [8] },
+	{ "s": "INICIE", "p": [8] },
+	{ "s": "INICIO", "p": [8] },
+	{ "s": "INMEDIATA", "p": [8] },
+	{ "s": "INMEDIATAMENTE", "p": [8] },
+	{ "s": "INTERACCIÓN", "p": [8] },
+	{ "s": "INTERCONEXIONES", "p": [7] },
+	{ "s": "INTERFAZ", "p": [8] },
+	{ "s": "INTERNAS", "p": [8] },
+	{ "s": "INTRODUCCIÓN", "p": [8, 3] },
+	{ "s": "IR", "p": [8] }
+];

@@ -1,0 +1,47 @@
+    body {
+      font-family: Montserrat, sans-serif;
+      font-weight: 600;
+      margin: 0;
+      padding: 0;
+      height: 80vh;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      background-color: #f4f4f4;
+    }
+
+    .container {
+      text-align: center;
+    }
+
+    h1 {
+      margin-bottom: 80px;
+      color: #333;
+    }
+
+    .logoDif {
+        margin: auto;
+        width: 130px;
+        border-radius: 5px;
+    }
+
+    .link-list {
+      display: flex;
+      flex-direction: column;
+      gap: 15px;
+    }
+
+    .link-list a {
+      text-decoration: none;
+      color: #ffffff;
+      background-color: #0078D7;
+      padding: 12px 24px;
+      border-radius: 8px;
+      font-size: 16px;
+      transition: background-color 0.3s ease;
+    }
+
+    .link-list a:hover {
+      background-color: #005fa3;
+    }
